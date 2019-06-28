@@ -1,2 +1,2 @@
 # git-demo
-learning git
+learning git on the first branch
